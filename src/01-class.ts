@@ -15,7 +15,7 @@ console.log(date2);
 
 //definimos nuestra propia clase Date con propiedades año, mes, dia.
 
-class MyDate {
+export class MyDate {
    year: number;
    month: number;
    day: number
